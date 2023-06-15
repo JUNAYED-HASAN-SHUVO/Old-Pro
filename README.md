@@ -1,7 +1,9 @@
 # Old-Pro
 
 git clone https://github.com/JUNAYED-HASAN-SHUVO/Old-Pro
+
 cd Old-Pro
+
 python OLD_PREMIUM.py
 
 
